@@ -1,0 +1,15 @@
+create database coffee;
+
+use coffee;
+
+
+create table user(
+uno int primary key not null,
+user_id varchar(20) not null,
+user_pwd varchar(50) not null,
+user_email varchar(50) not null,
+point int 
+);
+select*
+from user;
+commit;
