@@ -5,3 +5,6 @@ This data is accessible to the creator via MySQL.
 
 
 We use YOLOv8, Colab, Roboflow, FastAPI, Naver Cloud Server, Figma, OpenCV, Aduino, etc..
+
+---
+## aldfkjals
